@@ -1,1 +1,0 @@
-# School-Managment-System
